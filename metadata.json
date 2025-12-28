@@ -1,0 +1,7 @@
+{
+  "name": "#UPDATE 15",
+  "description": "A premium Radio 1 inspired live radio application featuring dynamic schedules, AI-powered music discovery, and an immersive sounds library.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
